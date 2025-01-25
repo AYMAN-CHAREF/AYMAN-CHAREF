@@ -1,4 +1,8 @@
-# Hello World 👋, I'm Ayman Charef :
+  <div align="center">
+    
+  # Hello World 👋, I'm Ayman Charef 
+    
+</div>
 
 
   <div align="center">
